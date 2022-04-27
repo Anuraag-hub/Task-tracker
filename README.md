@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
 This is a task tracker application which allows the user to create and track tasks. However, the tasks will be reset once the page is refreshed, as there is no backend support to persist data. LOL. Enjoy.
-Just UI template project that I picked up from a YouTube tutorial.
+Just a UI template project that I picked up from a YouTube tutorial.
 
 ## Development server
 
